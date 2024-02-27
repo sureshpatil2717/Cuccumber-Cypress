@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "First feature file",
+    "line": 1,
+    "id": "first-feature-file",
+    "tags": [],
+    "uri": "Login.feature",
+    "elements": [
+      {
+        "id": "first-feature-file;",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "launch application",
+            "result": {
+              "status": "passed",
+              "duration": 2537000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "login application",
+            "result": {
+              "status": "passed",
+              "duration": 479000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "verify details",
+            "result": {
+              "status": "passed",
+              "duration": 883000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
